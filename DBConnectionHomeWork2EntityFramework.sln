@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBConnectionHomeWork2EntityFramework", "ConsoleApp1\DBConnectionHomeWork2EntityFramework.csproj", "{0A9D0CDD-6EED-433C-AE2B-BC6CE61E9444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A9D0CDD-6EED-433C-AE2B-BC6CE61E9444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9D0CDD-6EED-433C-AE2B-BC6CE61E9444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9D0CDD-6EED-433C-AE2B-BC6CE61E9444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9D0CDD-6EED-433C-AE2B-BC6CE61E9444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3799EF-FEE9-4228-8440-BCD106CD8668}
+	EndGlobalSection
+EndGlobal
